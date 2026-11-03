@@ -1,13 +1,13 @@
 ---
-title: Colored Rings
-description: Use colored rings create initiative groups! Built for Draw Steel!
-author: Owlbear Rodeo
-image: https://raw.githubusercontent.com/owlbear-rodeo/colored-rings/main/docs/header.png
-icon: https://colored-rings.owlbear.rodeo/logo.svg
+title: Rings Initiative
+description: Use colored rings to create initiative groups! Built for Draw Steel!
+author: Seamus Finlayson
+image: https://raw.githubusercontent.com/SeamusFinlayson/rings-initiative/refs/heads/main/docs/group-menu.png
+icon: https://rings-initiative.seamus-finlayson.ca/logo.svg
 tags:
   - combat
-manifest: https://colored-rings.owlbear.rodeo/manifest.json
-learn-more: https://owlbear.app
+manifest: https://rings-initiative.seamus-finlayson.ca/manifest.json
+learn-more: https://github.com/SeamusFinlayson/rings-initiative
 ---
 
 # Rings Initiative

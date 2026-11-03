@@ -10,11 +10,11 @@ const icon = new URL("./status.svg#icon", import.meta.url).toString();
 
 OBR.onReady(() => {
   OBR.contextMenu.create({
-    id: getPluginId("menu"),
+    id: getPluginId("initiative-rings-menu"),
     icons: [
       {
         icon,
-        label: "Colored Rings",
+        label: "Initiaitive Rings",
         filter: {
           every: [
             { key: "layer", value: "MOUNT", coordinator: "||" },
