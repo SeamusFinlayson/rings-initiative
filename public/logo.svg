@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   width="800"
+   height="800"
+   viewBox="-2.4 -2.4 28.8 28.8"
+   fill="none"
+   stroke="#ffffff"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       d="M 10.019661,10.376358 V 7.3919198 c 0,0 0.244971,-0.2519774 0.979891,-0.2519774 0.734919,0 1.224868,0.5039441 1.959786,0.5039441 0.734919,0 0.979893,-0.2519718 0.979893,-0.2519718 v 3.0236673 c 0,0 -0.244974,0.251975 -0.979893,0.251975 -0.734918,0 -1.224867,-0.503946 -1.959786,-0.503946 -0.73492,0 -0.979891,0.251971 -0.979891,0.251971"
+       stroke="#b9d891"
+       stroke-width="0.819262"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path2"
+       style="stroke:#44d5e7;stroke-width:1.55011;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 7.075361,12.762184 V 5.1087162 c 0,0 0.6208784,-0.638632 2.4835138,-0.638632 1.8626342,0 3.1043932,1.2772359 4.9670282,1.2772359 1.862634,0 2.483514,-0.6386179 2.483514,-0.6386179 v 7.6634138 c 0,0 -0.62088,0.638618 -2.483514,0.638618 -1.862635,0 -3.104394,-1.277235 -4.9670282,-1.277235 -1.8626354,0 -2.4835138,0.638617 -2.4835138,0.638617"
+       stroke="#b9d891"
+       stroke-width="1.4878"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path1-3"
+       style="stroke:#2063e7;stroke-width:2.16336;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 3.2362842,23.267636 V 1.8591538 c 0,0 1.0954646,-1.12678862 4.3818581,-1.12678862 3.2863937,0 5.4773227,2.25352712 8.7637157,2.25352712 3.286394,0 4.381858,-1.1267636 4.381858,-1.1267636 V 15.380291 c 0,0 -1.095464,1.126763 -4.381858,1.126763 -3.286393,0 -5.477322,-2.253527 -8.7637157,-2.253527 -3.2863935,0 -4.3818581,1.126764 -4.3818581,1.126764"
+       stroke="#b9d891"
+       stroke-width="2.2756"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path1"
+       style="stroke:#874eff;stroke-width:2.304;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

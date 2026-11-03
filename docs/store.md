@@ -3,7 +3,7 @@ title: Colored Rings
 description: Use colored rings create initiative groups! Built for Draw Steel!
 author: Owlbear Rodeo
 image: https://raw.githubusercontent.com/owlbear-rodeo/colored-rings/main/docs/header.png
-icon: https://colored-rings.owlbear.rodeo/logo.png
+icon: https://colored-rings.owlbear.rodeo/logo.svg
 tags:
   - combat
 manifest: https://colored-rings.owlbear.rodeo/manifest.json

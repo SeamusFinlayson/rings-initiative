@@ -6,12 +6,12 @@
   "homepage_url": "https://extensions.owlbear.rodeo/colored-rings",
   "action": {
     "title": "Initiative",
-    "icon": "/logo.png",
+    "icon": "/logo.svg",
     "popover": "/action.html",
     "width": "250",
     "height": "600"
   },
-  "icon": "/logo.png",
+  "icon": "/logo.svg",
   "background_url": "/background.html",
   "description": "Use colored rings create initiative groups."
 }
