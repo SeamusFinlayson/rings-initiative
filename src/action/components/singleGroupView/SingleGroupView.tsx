@@ -12,7 +12,7 @@ import {
   getColorfulSurface,
   getDimTintedBackground,
 } from "../../helpers/colorCssHelpers";
-import { MoreOptionsPopover } from "./MoreOptionsPopover";
+import { MoreOptionsPopover } from "./moreOptions/MoreOptionsPopover";
 import { useContext } from "react";
 import { ThemeModeContext } from "../../helpers/themeModeContext";
 import {
